@@ -8,4 +8,4 @@ The RACAL gear wear dataset can be found at [GOTIX](http://www.gipsa-lab.grenobl
 
 Performs estimations about future values, the data set was cropped to validate the estimators.
 
-Was implemented RNN, Polinominal Least Squares and ARX Recursive Least Squares.
+Was implemented RNN, Polinominal Least Squares, ARX Least Squares, ARMAX Kalman Filter.
